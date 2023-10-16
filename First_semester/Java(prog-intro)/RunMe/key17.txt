@@ -1,0 +1,12 @@
+0: iconst_0
+1: istore_1
+2: iload_1
+3: bipush        23
+5: idiv
+6: iload_0
+7: isub
+8: ifge          17
+11: iinc          1, 1
+14: goto          2
+17: iload_1
+18: ireturn
