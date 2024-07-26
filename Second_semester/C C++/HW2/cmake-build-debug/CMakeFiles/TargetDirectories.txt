@@ -1,0 +1,3 @@
+C:/Users/igoru/OneDrive/Документы/A_Универ/2sem/C C++/HW2/cmake-build-debug/CMakeFiles/HW2.dir
+C:/Users/igoru/OneDrive/Документы/A_Универ/2sem/C C++/HW2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/igoru/OneDrive/Документы/A_Универ/2sem/C C++/HW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

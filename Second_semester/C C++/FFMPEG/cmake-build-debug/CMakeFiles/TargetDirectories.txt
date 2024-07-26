@@ -1,0 +1,3 @@
+C:/Users/igoru/OneDrive/Документы/A_Универ/2sem/C C++/FFMPEG/cmake-build-debug/CMakeFiles/FFMPEG.dir
+C:/Users/igoru/OneDrive/Документы/A_Универ/2sem/C C++/FFMPEG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/igoru/OneDrive/Документы/A_Универ/2sem/C C++/FFMPEG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
